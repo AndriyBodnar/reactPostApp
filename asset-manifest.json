@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactPostApp/static/css/main.7e75f4ae.chunk.css",
+    "main.js": "/reactPostApp/static/js/main.98725651.chunk.js",
+    "main.js.map": "/reactPostApp/static/js/main.98725651.chunk.js.map",
+    "runtime-main.js": "/reactPostApp/static/js/runtime-main.aa3b40d0.js",
+    "runtime-main.js.map": "/reactPostApp/static/js/runtime-main.aa3b40d0.js.map",
+    "static/css/2.180ea8e0.chunk.css": "/reactPostApp/static/css/2.180ea8e0.chunk.css",
+    "static/js/2.e1489af8.chunk.js": "/reactPostApp/static/js/2.e1489af8.chunk.js",
+    "static/js/2.e1489af8.chunk.js.map": "/reactPostApp/static/js/2.e1489af8.chunk.js.map",
+    "index.html": "/reactPostApp/index.html",
+    "static/css/2.180ea8e0.chunk.css.map": "/reactPostApp/static/css/2.180ea8e0.chunk.css.map",
+    "static/css/main.7e75f4ae.chunk.css.map": "/reactPostApp/static/css/main.7e75f4ae.chunk.css.map",
+    "static/js/2.e1489af8.chunk.js.LICENSE.txt": "/reactPostApp/static/js/2.e1489af8.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/reactPostApp/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa3b40d0.js",
+    "static/css/2.180ea8e0.chunk.css",
+    "static/js/2.e1489af8.chunk.js",
+    "static/css/main.7e75f4ae.chunk.css",
+    "static/js/main.98725651.chunk.js"
+  ]
+}
